@@ -1,4 +1,4 @@
-# 52 Weeks of C#
+# 52 Weeks of Coding
 
 ## Week One References
 
