@@ -14,3 +14,5 @@
 - Rest
 ## Day Six
 - [Learning Git & Github](https://www.youtube.com/watch?v=RGOj5yH7evk)
+## Day Seven
+- [Learning WebAssembly & C++](https://learning.oreilly.com/videos/hands-on-webassembly-for/9781839217753/9781839217753-video2_1/)
