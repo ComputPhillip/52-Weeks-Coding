@@ -19,5 +19,6 @@
   - [C++ Functions](https://www.youtube.com/watch?v=hsu15NcSSsc&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=19)
   
 ## Week Three
+### References
 1. [Pointers](https://www.youtube.com/watch?v=hsu15NcSSsc) & [References](https://www.youtube.com/watch?v=DMCoTssyduM)
-    - [Personal Project](https://github.com/ComputPhillip/CS-programs/tree/main/PointersLab)
+    - [Personal Project](https://github.com/ComputPhillip/CS-programs/tree/main/Jan24th)
