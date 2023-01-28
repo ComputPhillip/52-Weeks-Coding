@@ -17,4 +17,7 @@
   ### References
   - [Learn Advanced C++ Parsing](https://www.youtube.com/watch?v=A9aNn6q-P6Y&t=303s)
   - [C++ Functions](https://www.youtube.com/watch?v=hsu15NcSSsc&list=PLvv0ScY6vfd8j-tlhYVPYgiIyXduu6m-L&index=19)
-
+  
+## Week Three
+1. [Pointers](https://www.youtube.com/watch?v=hsu15NcSSsc) & [References](https://www.youtube.com/watch?v=DMCoTssyduM)
+    - [Personal Project](https://github.com/ComputPhillip/CS-programs/tree/main/PointersLab)
