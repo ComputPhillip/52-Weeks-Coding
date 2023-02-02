@@ -20,3 +20,11 @@
 ### References
 1.[Pointers](https://www.youtube.com/watch?v=hsu15NcSSsc) & [References](https://www.youtube.com/watch?v=DMCoTssyduM)
 ###### - [Personal Project](https://github.com/ComputPhillip/CS-programs/tree/main/Jan24th)
+## Week Four Overview
+### References
+1.[Processing Arrays](https://www.youtube.com/watch?v=hsu15NcSSsc)
+2.[Data Structures & Dynamic Arrays Part 1](https://www.youtube.com/watch?v=vt_nPCNv0wA)
+3.[Data Structures & Dynamic Arrays Part 2](https://www.youtube.com/watch?v=lpI4XtvOw5E&t=14s)
+###### - [Personal Project](https://github.com/ComputPhillip/CS-programs/tree/main/programHW)
+
+
