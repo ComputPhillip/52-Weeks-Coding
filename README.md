@@ -35,5 +35,10 @@
 1. [Reviewing the Basics](https://learning.oreilly.com/library/view/a-tour-of/9780136823575/ch01.xhtml#sec1_5)
 2. [Classes](###)
 ###### - [Personal Project](https://github.com/ComputPhillip/CS-programs/tree/main/programHW)
+## Week Seven Overview
+### References
+1. [Classes](###)
+2. [this->Keyword](https://www.youtube.com/watch?v=Z_hPJ_EhceI)
+###### - [Personal Project](###)
 
 
